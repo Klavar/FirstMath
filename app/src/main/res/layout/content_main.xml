@@ -11,8 +11,8 @@
 
     <TextView
         android:id="@+id/totalTextField"
-        android:layout_width="140dp"
-        android:layout_height="77dp"
+        android:layout_width="143dp"
+        android:layout_height="68dp"
         android:text="0"
         android:textAlignment="center"
         android:textSize="50sp"
